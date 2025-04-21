@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.UserLoginGradle.UserLoginTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-04-21T18:56:38.449Z" hostname="Neils-MacBook-Air.local" time="0.019">
+  <properties/>
+  <testcase name="testValidPassword()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.008"/>
+  <testcase name="testInvalidPasswordNoSpecialChar()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.0"/>
+  <testcase name="testRegisterUserInvalidUsername()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.0"/>
+  <testcase name="testLoginSuccess()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.0"/>
+  <testcase name="testInvalidPasswordNoUppercase()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.001"/>
+  <testcase name="testLoginFailure()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.0"/>
+  <testcase name="testReturnLoginStatusSuccess()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.003"/>
+  <testcase name="testInvalidUsernameTooLong()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.0"/>
+  <testcase name="testRegisterUserInvalidPassword()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.0"/>
+  <testcase name="testReturnLoginStatusFailure()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.0"/>
+  <testcase name="testValidUsername()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.0"/>
+  <testcase name="testInvalidPasswordNoDigit()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.0"/>
+  <testcase name="testInvalidUsernameNoUnderscore()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.0"/>
+  <testcase name="testRegisterUserValidCredentials()" classname="com.example.UserLoginGradle.UserLoginTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
